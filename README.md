@@ -1,4 +1,4 @@
-# Telegram Surfing Bot
+# Litecoin Farming Bot
 
 This project is an advanced automation bot for interacting with Telegram reward bots like `Litecoin_click_bot`. It automates tasks such as visiting websites, messaging other bots, and joining Telegram channels to complete tasks and earn rewards.
 
