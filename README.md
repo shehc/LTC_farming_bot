@@ -54,8 +54,8 @@ This project is an advanced automation bot for interacting with Telegram reward 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telegram-surfing-bot.git
-   cd telegram-surfing-bot
+   git clone https://github.com/yourusername/LTC_farming_bot.git
+   cd LTC-farming-bot
    ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ This project is an advanced automation bot for interacting with Telegram reward 
 
 4. Run the bot:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ## Disclaimer
